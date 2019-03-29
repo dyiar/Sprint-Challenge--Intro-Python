@@ -1,4 +1,5 @@
 # Write classes for the following class hierarchy:
+#initial commit
 #
 #  [Vehicle]->[FlightVehicle]->[Starship]
 #      |                |
